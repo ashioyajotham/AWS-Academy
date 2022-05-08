@@ -1,0 +1,12 @@
+ ******************* SHared Responsibility model ********************************
+ /In the shared responsibility, AWS is responsible for providing security of the cloud while customer is responsible for security in the cloud
+ 
+ /The customer is responsible for the encryption of data at rest and data in transit. 
+  The customer should also ensure that the network is configured for security and that security credentials and logins are managed safely. 
+  Additionally, the customer is responsible for the configuration of security groups and the 
+   configuration of the operating system that run on compute instances that they launch (including updates and security patches). 
+   
+ /Under the AWS shared responsibility model, AWS operates, manages, and controls the components from the bare metal host operating system and 
+   hypervisor virtualization layer down to the physical security of the facilities where the services operate. 
+   It means that AWS is responsible for protecting the global infrastructure that runs all the services that are offered in the AWS Cloud. 
+   The global infrastructure includes AWS Regions, Availability Zones, and edge locations
