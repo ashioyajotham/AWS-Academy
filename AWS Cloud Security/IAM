@@ -2,5 +2,14 @@
         With IAM, you can centrally manage users, security credentials such as access keys, and permissions that control which AWS resources users can access.
  
  When creating an AWS Identity and Access Management(IAM) policy, there are two types of access:
-    * Programmatic access
-    * AWS Management Console access
+    * Programmatic access -  the IAM user will be required to present an access key ID and a secret access key when they make an AWS API call by using the AWS CLI, 
+                              the AWS SDK, or some other development tool.
+    * AWS Management Console access -  the IAM user will be required to fill in the fields that appear in the browser login window. 
+     The user is prompted to provide either the 12-digit account ID or the corresponding account alias. 
+     The user must also enter their IAM user name and password. If multi-factor authentication (MFA) is enabled for the user, 
+     they will also be prompted for an authentication code.
+     
+
+/ AWS organizations enables you to consolidate multiple AWS accounts so that you can centrally manage them
+/ After initial login, AWS recommends deleting the access keys of the root user.
+/ AWS Key Management Service enables you to create and manage encryption keys
