@@ -1,0 +1,9 @@
+/ Network Address Translation (NAT) gateway
+/ VPC sharing
+/ VPC Peering - connect your VPCs to other accounts or regions
+/ AWS Direct Connect - private conection
+/ VPC endpoints
+    * Gateway
+    * Interface
+    
+/ AWS Transit Gateway
