@@ -1,0 +1,11 @@
+/ Highly available and scalable DNS service
+  
+  * Single routing
+  * Weighted routing
+  * Latency routing
+  * Geolocation routing
+  * Geoproximity routing
+  * Failover routing
+  * Multivalue routing
+  
+  
