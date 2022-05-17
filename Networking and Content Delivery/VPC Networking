@@ -1,4 +1,4 @@
-/ Network Address Translation (NAT) gateway
+/ Network Address Translation (NAT) gateway -  used to provide internet connectivity to EC2 instances in the private subnets.
 / VPC sharing
 / VPC Peering - connect your VPCs to other accounts or regions
 / AWS Direct Connect - private conection
