@@ -7,6 +7,7 @@
  * You cannot detach a primary elastic network interface
  
  /Route tables - each subnet must be associated with a route table. The mapping is 1:1
+               - created by default when you create a VPC
  /An Internet gateway (IGW) is a VPC component that allows communication between instances in your VPC and the Internet.
  /After creating a VPC, you can add subnets. Each subnet resides entirely within one Availability Zone and cannot span zones. 
   If a subnet's traffic is routed to an Internet Gateway, the subnet is known as a public subnet. 
