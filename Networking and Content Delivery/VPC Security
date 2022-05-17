@@ -1,1 +1,2 @@
-Network ACL is an optional security control that can be applied at the subnet layer of a VPC
+/ Network ACL is an optional security control that can be applied at the subnet layer of a VPC
+/ A security group acts as a virtual firewall for your instance to control inbound and outbound traffic
