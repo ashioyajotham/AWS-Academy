@@ -1,0 +1,17 @@
+Components:
+ * AMI (Amazon Machine Image) - template, virtual machine that runs in the cloud which determines the OS eg 
+ * Instance type eg t2.micro
+ * Network settings
+ * IAM Role
+ * User data
+ * Storage options
+  / Elastic Block Store
+  / Instance store
+ * Tags - label you can assign to a resource
+ * Security group - acts like a firewall control the traffic to the instance
+ * Key pair - consist of a public and a private key
+ 
+ 
+ // Amazon CloudWatch for  monitoring instances
+     * Basic monitoring - every 5 mins
+     * Detailed monitoring - every 1 min
