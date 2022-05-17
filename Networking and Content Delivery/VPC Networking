@@ -7,3 +7,5 @@
     * Interface
     
 / AWS Transit Gateway
+/ A route table contains a set of rules, called routes, that are used to determine where network traffic is directed. 
+  Each subnet in a VPC must be associated with a route table; the route table controls routing for the subnet.
