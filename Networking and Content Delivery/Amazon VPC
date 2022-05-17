@@ -2,6 +2,7 @@
 / Logically isolated from other VPCs
 / When you create a VPC you must give it a CIDR block. The largest is /16 and the smallest is /28
  * CIDR (a range of small IP addresses)
+ * 5 IP addresses are reserved 
  
  / Elastic Network Interface
  * You cannot detach a primary elastic network interface
