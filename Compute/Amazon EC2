@@ -15,3 +15,5 @@ Components:
  // Amazon CloudWatch for  monitoring instances
      * Basic monitoring - every 5 mins
      * Detailed monitoring - every 1 min
+
+// Reserved Instances (RIs) - best for long term workloads with predictable usage patterns
