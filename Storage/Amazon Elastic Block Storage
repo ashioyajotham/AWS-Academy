@@ -1,0 +1,9 @@
+* Used with EC2 intances
+* Automatically replicated with different AZs
+* Persistent, mountable storagethat can be mounted as a device to an Amazon EC2 instance. 
+   Amazon EBS can be mounted to an Amazon EC2 instance only within the same Availability Zone.  It is also sometimes called non-volatile storage. 
+* Backup of EBS - snapshot
+
+***** Typical Uses*********
+* Boot volume for EC2
+* Database hosts
