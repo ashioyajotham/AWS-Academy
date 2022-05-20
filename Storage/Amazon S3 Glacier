@@ -1,0 +1,23 @@
+// Amazon S3 Glacier is a secure, durable, and extremely low-cost cloud storage service for data archiving and long-term backup.
+
+
+// Key terms
+* Archive -base unit of storage
+* Vault - container for storing the archives
+* Vault access policy
+
+
+Ways of Retrieving
+* Expedited - highest cost (1-5hours)
+* Standard - (3-5hours)
+* Bulk - least expensive (5-12hours)
+
+// Has no upfront cost
+
+// Using S3 Glacier
+* REST API
+* Java or .NET SDKs
+* Amazon s3 lifecycles
+
+
+
