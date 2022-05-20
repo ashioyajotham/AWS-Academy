@@ -6,3 +6,5 @@
 * Excels at scaling to hundred of thousands of requests with key/value access to user profile and session.
 
 // To find an item in a DynamoDB table other than the table's primary key, ypou would use the scan operation
+
+// An attribute is a fundamental data element
