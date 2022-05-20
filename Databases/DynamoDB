@@ -4,3 +4,5 @@
 
 // It is a key-value and document database that delivers single-digit millisecond performance at any scale.
 * Excels at scaling to hundred of thousands of requests with key/value access to user profile and session.
+
+// To find an item in a DynamoDB table other than the table's primary key, ypou would use the scan operation
