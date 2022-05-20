@@ -9,3 +9,4 @@ Migration Service to easily migrate or replicate your existing databases to Amaz
    installing and patching the database software, automatic backups, and high availability. 
    
 // Amazon RDS automatically patches database databse software and backs up
+ * Use RDS when your application requires complex transactions or complex queries
