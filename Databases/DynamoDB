@@ -3,3 +3,4 @@
   than 10 trillion requests per day and support peaks of more than 20 million requests per second
 
 // It is a key-value and document database that delivers single-digit millisecond performance at any scale.
+* Excels at scaling to hundred of thousands of requests with key/value access to user profile and session.
