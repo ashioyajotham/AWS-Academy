@@ -10,3 +10,13 @@ Categories
    * Amazon S3 Glacier DeepArchive - (7-10) years to meet regulatory compliance requirements. Can also be used for backup and disaster recovery  
                                    - It is a cost-effective and easy-to-manage alternative to magnetic tape systems, whether thesetape systemsare on-premises libraries or off-premises services.
                                    - All objects that are stored in Amazon S3 Glacier Deep Archive are replicated and stored across at least three geographically dispersed Availability Zones, and these objectscan be restored within 12 hours.
+                                   
+                                   
+                                   // Amazon S3 replicates all objects across in multiple AZs within the same region
+                                   
+                                   // Storage Classes for an S3 Object Lifecycle Policy
+                                   * Glacier
+                                   * S3 Infrequent Access
+                                   * S3 Standard Access
+                                   
+                                   // The name of a S3 bucket must be unique worlwide across all AWS accounts
