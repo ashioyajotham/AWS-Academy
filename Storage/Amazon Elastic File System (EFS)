@@ -1,0 +1,2 @@
+// Amazon EFS implements storage for EC2 instances that multiple virtual machines can access at the same time. 
+  It is implemented as a shared file system that uses the Network File System (NFS) protocol.
