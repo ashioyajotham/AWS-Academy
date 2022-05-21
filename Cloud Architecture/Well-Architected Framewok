@@ -1,0 +1,49 @@
+// When designing cloud-based systems assume everything will fail
+// Fault tolerance - ability of a system to remain operational even if some of the components of the system fail
+// Highly available system experiences minimal downtime, can withstand measures of degradtion and requires minimal human intervention
+
+// Operational Excellence pillar
+// Security pillar
+  * IAM
+  * Data protection
+  * infrastructure protection
+  * Incident response
+  * Detective controls
+  
+// Reliability / Sustainability pillar
+- Measure of your system's abilty to provide functionality when desired by the user
+
+  * Stop guessing capacity
+  * Manage change in automation
+  * Quick recovery
+  * Foundation 
+  * Change management
+  
+  
+// Performance Efficiency pillar
+  * Go global in minutes
+  * Democratize advanced tech.
+  * Serveless architecture
+  * Selection
+  * Review
+  * Tradeoffs
+  * Monitoring
+  
+  
+// Cost optimizatiom
+* Eliminate unneeded expenses
+
+
+// Reliabilty and High Availability
+**** Factors determining availability***********
+  + Fault tolerance
+  + Scalability
+  + Recoverability
+  
+  
+// AWS Trusted Advisor
+* Cost optimization
+* Performance
+* Security
+* Fault tolerance
+* Service Limits
