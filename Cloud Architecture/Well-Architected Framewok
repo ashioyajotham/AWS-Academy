@@ -10,12 +10,11 @@
   * Incident response
   * Detective controls
   
-// Reliability / Sustainability pillar
+// Reliability
 - Measure of your system's abilty to provide functionality when desired by the user
 
   * Stop guessing capacity
   * Manage change in automation
-  * Quick recovery
   * Foundation 
   * Change management
   
