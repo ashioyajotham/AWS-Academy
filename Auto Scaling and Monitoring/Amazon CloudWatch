@@ -1,0 +1,21 @@
+Monitors
+  - AWS Resources
+  - Applications that run on AWS
+  
+Alarms
+ - Create alarms based on
+    * static threshold
+    * anomaly detection
+    * metric math expression
+ - Specify
+    * Namespace
+    * Metric
+    * Static
+    * Period
+    * Conditions
+    * Additional config.
+    * Actions
+    
+Collects and tracks
+
+- No upfront payment
