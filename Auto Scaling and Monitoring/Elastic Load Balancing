@@ -1,0 +1,6 @@
+* Distributes incoming network or application traffic across various targets
+
+Types
+   + Application Load Balancer - HTTP and HTTPS
+   + Network Load Balancer - TCP, UDP and TLS traffic
+   + Classic Load Balancer (older gen.)
