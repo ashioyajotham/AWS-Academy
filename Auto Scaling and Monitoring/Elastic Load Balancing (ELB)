@@ -1,4 +1,8 @@
 // Distributes incoming network or application traffic across various targets
+* Targets - are the individual instances that will respond to requests from the Load Balancer.
+* Target Groups define where to send traffic that comes into the Load Balancer. 
+  The Application Load Balancer can send traffic to multiple Target Groups based upon the URL of the incoming request, such as having requests from mobile apps going to a different set of servers. 
+  Your web application will use only one Target Group.
 // Elastic Load Balancing automatically distributes incoming application traffic across multiple Amazon EC2 instances. 
   It enables you to achieve fault tolerance in your 
   applications by seamlessly providing the required amount of load balancing capacity needed to route application traffic.
