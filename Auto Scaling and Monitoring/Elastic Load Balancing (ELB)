@@ -12,7 +12,9 @@
    Auto Scaling is well suited to applications that have stable demand patterns or that experience hourly, daily, or weekly variability in usage.
 
 Types
-   + Application Load Balancer - HTTP and HTTPS
+   + Application Load Balancer
+     -  operates at the request level (layer 7), routing traffic to targets — EC2 instances, containers, 
+        IP addresses and Lambda functions — based on the content of the request.
    + Network Load Balancer - TCP, UDP and TLS traffic
    + Classic Load Balancer (older gen.)
 
